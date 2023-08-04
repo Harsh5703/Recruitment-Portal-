@@ -6,7 +6,6 @@ Welcome to the  Recruitment-Portal- project! This repository contains the HTML a
 - [Getting Started]
 - [Usage]
 - [Customization]
-- [License]
 
 ## Features
 - **Responsive Design**: The homepage is responsive and optimized for various screen sizes, including desktop, tablet, and mobile devices.
@@ -34,6 +33,3 @@ Simply open the `index.html` file in your web browser to view the recruitment po
 - Replace the placeholder images and content with your own branding, images, and text.
 - Modify the `styles.css` file to customize the appearance of the homepage to match your startup's design guidelines.
 - Add or remove sections as needed to tailor the website to your startup's specific services and goals.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
